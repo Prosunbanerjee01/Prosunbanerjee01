@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prosunbanerjee01
 - 👀 I’m interested in Cyber security 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C,C++
 - 📫 How to reach me (follow me on Instagram 🤫)
 
 <!---
